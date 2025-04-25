@@ -1,0 +1,7 @@
+
+.venv
+.env
+
+data/lending_club_data
+
+Dockerfile

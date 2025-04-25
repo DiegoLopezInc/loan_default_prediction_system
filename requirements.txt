@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+gradio
+python-dotenv
+papermill
+pathlib
